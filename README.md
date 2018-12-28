@@ -1,4 +1,4 @@
 # hello-world
 my first repository on github
 
-i am foing to be a programmer
+i am going to be a programmer
